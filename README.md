@@ -35,4 +35,4 @@ DSEA wrks in a ring of processes. When executing the program, care must be taken
 Please cite this work as:
 
 "M. Rose, S. Homes, L. Ramsperger, J. Gracia, C. Niethammer, and J. Vrabec. Cyclic Data Streaming on GPUs for Short Range
-Stencils Applied to Molecular Dynamics. Submitted to Euro-Par 2025."
+Stencils Applied to Molecular Dynamics. HeteroPar 2025, accepted."
